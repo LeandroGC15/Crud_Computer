@@ -1,0 +1,5 @@
+** Persona roque lopez **
+CI: 12312312 -- roque
+Nombre Apellido Edad CI Computadora
+[roque, lopez, 22, 12312312, 5358767195]
+******************************

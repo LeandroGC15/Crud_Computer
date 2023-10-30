@@ -1,0 +1,5 @@
+** Computador Magnus **
+ID: 5358767195 -- Magnus
+Nombre ID Procesador Memoria Monitor Teclado Mouse Fuente Disco Placa Persona
+[Magnus, 5358767195, [' Amd', ' 8', ' erku', ' vit', ' Imexx', ' 120', ' 8', ' ass'], roque ]
+******************************

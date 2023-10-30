@@ -1,0 +1,40 @@
+** Componente Procesador **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Procesador, Amd, 9067903774, 5358767195]
+******************************
+** Componente Memoria **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Memoria, 8, 5610432, 5358767195]
+******************************
+** Componente Disco **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Disco, 8, 01203, 5358767195]
+******************************
+** Componente Placa **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Placa, ass, 14233, 5358767195]
+******************************
+** Componente Fuente **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Fuente, 120, 252315, 5358767195]
+******************************
+** Componente Teclado **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Teclado, vit, 2521366, 5358767195]
+******************************
+** Componente Mouse **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Mouse, Imexx, 13430, 5358767195]
+******************************
+** Componente Monitor **
+Tipo Data ID ComputadoraIDAsociada
+-
+[Monitor, erku, 4011124, 5358767195]
+******************************
